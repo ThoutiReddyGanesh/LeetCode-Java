@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2520-count-the-digits-that-divide-a-number) |
