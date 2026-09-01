@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1952-three-divisors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -47,4 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
