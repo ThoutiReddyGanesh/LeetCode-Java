@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0035-search-insert-position) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0278-first-bad-version) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Interactive
 |  |
 | ------- |
