@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1678-goal-parser-interpretation) |
 ## Linked List
