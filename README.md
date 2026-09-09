@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
