@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
