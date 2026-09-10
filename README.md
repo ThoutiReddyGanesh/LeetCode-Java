@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1952-three-divisors](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2235-add-two-integers) |
