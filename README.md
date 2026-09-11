@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3099-harshad-number) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1678-goal-parser-interpretation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Linked List
 |  |
 | ------- |
