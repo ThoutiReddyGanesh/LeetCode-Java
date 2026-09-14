@@ -8,6 +8,7 @@ class Solution {
             s=s.replace("{}","");
         }
 
-        return s.length()==0;
+        if(s.length()==0) return true;
+        return false;
     }
 }
