@@ -1,16 +1,27 @@
 class Solution {
     public void deleteNode(ListNode node) {
+        ArrayList<Integer> al=new ArrayList<>();
+
         ListNode temp=node;
 
-        while (temp.next!=null) {
-            temp.val=temp.next.val;
-
-            if (temp.next.next == null) {
-                temp.next = null;
-                break;
-            }
-
-            temp =temp.next;
+        while(temp!=null){
+            al.add(temp.val);
+            temp=temp.next;
         }
+
+        al.remove(0);
+
+        temp=node;
+        ListNode prev=null;
+        int i=0;
+
+        while(i<al.size()){
+            temp.val=al.get(i);
+            prev=temp;
+            temp=temp.next;
+            i++;
+        }
+
+        prev.next=null;
     }
 }
