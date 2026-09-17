@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1768-merge-strings-alternately) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Floyd's Cycle Finding Algorithm
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Design
 |  |
 | ------- |
