@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3099-harshad-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3099-harshad-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Two Pointers
 |  |
 | ------- |
