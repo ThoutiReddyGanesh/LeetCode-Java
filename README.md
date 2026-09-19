@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2390-removing-stars-from-a-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0942-di-string-match) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
