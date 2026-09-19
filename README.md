@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2390-removing-stars-from-a-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2390-removing-stars-from-a-string) |
