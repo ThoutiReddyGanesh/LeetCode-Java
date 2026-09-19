@@ -5,7 +5,7 @@ class Solution {
       st.push(s.charAt(i));
       i++;
       while(i<s.length()){
-        if(!st.isEmpty() && s.charAt(i)==st.peek()){
+        if(st.size()>0 && s.charAt(i)==st.peek()){
             st.pop();
             i++;}
         else{
