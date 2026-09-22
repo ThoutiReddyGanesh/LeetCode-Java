@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
+| [1185-day-of-the-week](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1185-day-of-the-week) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
