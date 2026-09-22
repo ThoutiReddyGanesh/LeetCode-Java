@@ -15,7 +15,7 @@ class Solution {
             }
             else {
                 if(i==0) {
-                    a.deleteCharAt(j);
+                    a.deleteCharAt(i);
                     i=0;
                     j=0;
                 }
