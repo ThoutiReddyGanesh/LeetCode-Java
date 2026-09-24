@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3099-harshad-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3099-harshad-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Prefix Sum
 |  |
