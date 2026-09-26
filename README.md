@@ -101,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -343,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
