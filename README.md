@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
@@ -355,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
