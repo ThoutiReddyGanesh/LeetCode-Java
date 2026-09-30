@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0771-jewels-and-stones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
 ## Greedy
 |  |
