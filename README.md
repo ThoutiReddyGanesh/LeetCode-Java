@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0942-di-string-match) |
+| [0946-validate-stack-sequences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0946-validate-stack-sequences) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
