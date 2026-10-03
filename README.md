@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0942-di-string-match) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0942-di-string-match) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Queue
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0946-validate-stack-sequences) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1021-remove-outermost-parentheses) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
