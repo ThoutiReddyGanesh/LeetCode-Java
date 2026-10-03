@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0171-excel-sheet-column-number) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0392-is-subsequence) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
