@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1672-richest-customer-wealth](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -408,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
