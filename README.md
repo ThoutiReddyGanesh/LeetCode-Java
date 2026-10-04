@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0771-jewels-and-stones) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0942-di-string-match) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0844-backspace-string-compare) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
