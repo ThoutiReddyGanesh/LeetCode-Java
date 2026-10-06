@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
