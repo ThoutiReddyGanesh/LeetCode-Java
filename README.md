@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0392-is-subsequence) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Interactive
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
@@ -427,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1672-richest-customer-wealth) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
