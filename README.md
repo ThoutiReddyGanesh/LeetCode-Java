@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0141-linked-list-cycle) |
@@ -296,16 +297,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Bucket Sort
@@ -450,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0069-sqrtx) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
