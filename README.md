@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0283-move-zeroes) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
