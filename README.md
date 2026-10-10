@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2235-add-two-integers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1441-build-an-array-with-stack-operations) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2390-removing-stars-from-a-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0326-power-of-three) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bracket Sequences
 |  |
 | ------- |
