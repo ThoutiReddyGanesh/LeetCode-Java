@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0238-product-of-array-except-self) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0242-valid-anagram) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Heap (Priority Queue)
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
@@ -483,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
