@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0946-validate-stack-sequences) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1672-richest-customer-wealth) |
 ## Pigeonhole Principle
