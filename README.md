@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0283-move-zeroes) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Heap (Priority Queue)
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1672-richest-customer-wealth) |
 ## Pigeonhole Principle
