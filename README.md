@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1185-day-of-the-week) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0739-daily-temperatures) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
