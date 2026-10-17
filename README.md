@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3467-transform-array-by-parity](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3467-transform-array-by-parity](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3467-transform-array-by-parity) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Divide and Conquer
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
+| [3467-transform-array-by-parity](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
