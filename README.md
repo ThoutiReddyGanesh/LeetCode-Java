@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2390-removing-stars-from-a-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1768-merge-strings-alternately) |
+| [2109-adding-spaces-to-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2460-apply-operations-to-an-array) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2109-adding-spaces-to-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2490-circular-sentence) |
