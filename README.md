@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
