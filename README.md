@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0088-merge-sorted-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0867-transpose-matrix) |
