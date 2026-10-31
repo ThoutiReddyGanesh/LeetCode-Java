@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0070-climbing-stairs) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0198-house-robber) |
@@ -651,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
