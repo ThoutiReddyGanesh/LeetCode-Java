@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0189-rotate-array) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Indexed Tree
 |  |
