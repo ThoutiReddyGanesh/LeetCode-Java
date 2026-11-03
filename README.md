@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
