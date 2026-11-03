@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0226-invert-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
