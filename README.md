@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0136-single-number) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
@@ -698,4 +702,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0292-nim-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
