@@ -634,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -738,4 +742,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
