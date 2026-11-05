@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0088-merge-sorted-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0171-excel-sheet-column-number) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0867-transpose-matrix) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0101-symmetric-tree) |
@@ -767,4 +771,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
