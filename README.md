@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2109-adding-spaces-to-a-string) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3467-transform-array-by-parity](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3467-transform-array-by-parity) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3467-transform-array-by-parity) |
 ## Greedy
