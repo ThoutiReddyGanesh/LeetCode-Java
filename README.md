@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
@@ -798,8 +800,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0494-target-sum) |
 ## Union-Find
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
