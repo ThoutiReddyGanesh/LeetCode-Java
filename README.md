@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0771-jewels-and-stones) |
+| [0997-find-the-town-judge](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -816,5 +818,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
