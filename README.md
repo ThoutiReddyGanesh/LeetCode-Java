@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
 | [1929-concatenation-of-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2109-adding-spaces-to-a-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1672-richest-customer-wealth) |
+| [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Pigeonhole Principle
 |  |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
+| [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
+| [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Combinatorics
 |  |
@@ -832,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0695-max-area-of-island) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
+| [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
 ## Knapsack Problem
 |  |
 | ------- |
