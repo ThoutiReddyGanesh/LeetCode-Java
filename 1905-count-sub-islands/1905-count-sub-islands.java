@@ -43,6 +43,7 @@
     return c;
     }
 }*/
+/*
 class Solution {
     void fun(int grid[][],int i,int j,ArrayList<String> al){
         if(i<0 || j<0 || i>=grid.length || j>=grid[0].length) return;
@@ -80,10 +81,34 @@ class Solution {
     return c;
     }
 }
+*/
 
 
 
 
-
-
-
+class Solution {
+    boolean flag=false;
+    void fun(int grid1[][],int grid2[][],int i,int j){
+        if(i<0 || j<0 || i>=grid1.length || j>=grid1[0].length)return;
+        if(grid2[i][j]==0)return;
+        if(grid2[i][j]==1 && grid1[i][j]==0)flag=true;
+        grid2[i][j]=0;
+        fun(grid1,grid2,i+1,j);
+        fun(grid1,grid2,i-1,j);
+        fun(grid1,grid2,i,j+1);
+        fun(grid1,grid2,i,j-1);
+    }
+    public int countSubIslands(int[][] grid1,int[][] grid2){
+        int c=0;
+        for(int i=0;i<grid2.length;i++){
+            for(int j=0;j<grid2[0].length;j++){
+                if(grid2[i][j]==1){
+                    flag=false;
+                    fun(grid1,grid2,i,j);
+                    if(flag==false)c++;
+                }
+            }
+        }
+        return c;
+    }
+}
