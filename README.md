@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1089-duplicate-zeros) |
+| [1219-path-with-maximum-gold](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0867-transpose-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0494-target-sum) |
+| [1219-path-with-maximum-gold](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1219-path-with-maximum-gold) |
 ## Union-Find
 |  |
 | ------- |
