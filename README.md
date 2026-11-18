@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1089-duplicate-zeros) |
+| [1254-number-of-closed-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 | [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 | [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
@@ -835,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
 ## Knapsack Problem
