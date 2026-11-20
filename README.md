@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1672-richest-customer-wealth) |
 | [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Pigeonhole Principle
 |  |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 | [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 | [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
@@ -848,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1905-count-sub-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
 | ------- |
