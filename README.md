@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0997-find-the-town-judge) |
+| [1046-last-stone-weight](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1219-path-with-maximum-gold](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1219-path-with-maximum-gold) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
