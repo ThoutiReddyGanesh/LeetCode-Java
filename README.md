@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1678-goal-parser-interpretation) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
@@ -871,4 +873,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3898-find-the-degree-of-each-vertex) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
