@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3978-unique-middle-element](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3978-unique-middle-element) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Prefix Sum
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3467-transform-array-by-parity) |
+| [3978-unique-middle-element](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/3978-unique-middle-element) |
 ## Greedy
 |  |
 | ------- |
