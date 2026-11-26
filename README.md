@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1185-day-of-the-week) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0844-backspace-string-compare) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Interactive
