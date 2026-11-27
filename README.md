@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1089-duplicate-zeros) |
+| [1207-unique-number-of-occurrences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0997-find-the-town-judge) |
+| [1207-unique-number-of-occurrences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
