@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1207-unique-number-of-occurrences) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0155-min-stack) |
+| [0705-design-hashset](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0707-design-linked-list) |
 ## Binary Search
 |  |
@@ -887,4 +891,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/1143-longest-common-subsequence) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ThoutiReddyGanesh/LeetCode-Java/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
